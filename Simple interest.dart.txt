@@ -1,0 +1,4 @@
+void main() {
+var P= 20000,R = 2.5, N = 4;
+print("SI ${ (P*N*R)/100}");
+  }
